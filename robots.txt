@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shakertil.github.io/sitemap.html.gz
+Sitemap: https://shakertil.github.io/app/sitemap.html.gz
+Sitemap: https://shakertil.github.io/assets/sitemap.html.gz
+Sitemap: https://shakertil.github.io/css/sitemap.html.gz
+Sitemap: https://shakertil.github.io/data/sitemap.html.gz
+Sitemap: https://shakertil.github.io/includes/sitemap.html.gz
+Sitemap: https://shakertil.github.io/item/sitemap.html.gz
+Sitemap: https://shakertil.github.io/src/sitemap.html.gz
